@@ -1,5 +1,5 @@
-Html5, Flash, jQuery, Php and more...
-=====================================
+Flash Card - Face Detection
+============================
 
 Enjoy Coding!
 
